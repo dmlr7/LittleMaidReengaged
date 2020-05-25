@@ -3,7 +3,7 @@ Again, on the new stage.
 
 ## What's this?
 A MOD of Minecraft; LittleMaidMob for MC1.9./1.10. Cute and little maid girls will be helpful for your life on Minecraft.
-
+updating to properly work on client-server sides, and update to 1.12.2.
 ## LICENSE
 Read LICENSE.md
 
